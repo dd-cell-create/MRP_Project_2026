@@ -1,0 +1,181 @@
+final_question_id,cleaned_question,model,runs,hallucinated_count,not_hallucinated_count,uncertain_count,hallucination_confidence,final_verdict,top_hallucination_type
+FQ00001,Is it difficult not to experience a fear of missing out (FOMO) when considering real estate investment opportunities in Canada?,mistral,1,0,5,0,0.0%,no,none
+FQ00001,Is it difficult not to experience a fear of missing out (FOMO) when considering real estate investment opportunities in Canada?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00002,Is the individual (dad) aged 55 lacking sufficient funds for retirement?,mistral,1,0,5,0,0.0%,no,none
+FQ00002,Is the individual (dad) aged 55 lacking sufficient funds for retirement?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00003,"Given a savings of approximately CAD 100,000, should the individual opt for purchasing a condo or continue investing?",mistral,1,0,5,0,0.0%,no,none
+FQ00003,"Given a savings of approximately CAD 100,000, should the individual opt for purchasing a condo or continue investing?",llama3.1,1,0,5,0,0.0%,no,none
+FQ00005,"Is moving funds from WealthSimple's managed portfolios (Growth Portfolio-9 for High Risk and Balanced -5 for Medium Risk) into individual ETFs XEQT (High Risk), VGRO, and XGRO (Balanced Risk) a cost-effective decision?",mistral,1,0,5,0,0.0%,no,none
+FQ00005,"Is moving funds from WealthSimple's managed portfolios (Growth Portfolio-9 for High Risk and Balanced -5 for Medium Risk) into individual ETFs XEQT (High Risk), VGRO, and XGRO (Balanced Risk) a cost-effective decision?",llama3.1,1,1,4,0,100.0%,yes,regulatory_error
+FQ00008,What is the impact of an FAQ (Frequently Asked Questions) from the Ontario Securities Commission's (OSC) Community on a retail investor?,mistral,1,0,5,0,0.0%,no,none
+FQ00008,What is the impact of an FAQ (Frequently Asked Questions) from the Ontario Securities Commission's (OSC) Community on a retail investor?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00009,What are some suitable ETFs that could complement VFV in a portfolio?,mistral,1,0,5,0,0.0%,no,none
+FQ00009,What are some suitable ETFs that could complement VFV in a portfolio?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00013,Should I invest in OMERS instead of purchasing XEQT with the same amount of money?,mistral,1,0,5,0,0.0%,no,none
+FQ00013,Should I invest in OMERS instead of purchasing XEQT with the same amount of money?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00015,What impact does reviewing an estate plan have on a retail investor?,mistral,1,0,5,0,0.0%,no,none
+FQ00015,What impact does reviewing an estate plan have on a retail investor?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00017,Considering using CASH.TO rather than Wealthsimple Cash for temporary savings,mistral,1,0,5,0,0.0%,no,none
+FQ00017,Considering using CASH.TO rather than Wealthsimple Cash for temporary savings,llama3.1,1,0,5,0,0.0%,no,none
+FQ00018,Why is the investment in VFV (a Canadian all-capitalization ETF) yielding a perceived low return?,mistral,1,0,5,0,0.0%,no,none
+FQ00018,Why is the investment in VFV (a Canadian all-capitalization ETF) yielding a perceived low return?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00020,What is Wealthsimple's risk tolerance for investment portfolios?,mistral,1,0,5,0,0.0%,no,none
+FQ00020,What is Wealthsimple's risk tolerance for investment portfolios?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00021,Is it possible to contribute less to my RRSP since I am paying for CPP2?,mistral,1,0,5,0,0.0%,no,none
+FQ00021,Is it possible to contribute less to my RRSP since I am paying for CPP2?,llama3.1,1,0,3,2,0.0%,no,none
+FQ00026,Should I Invest in XEQT Permanently?,mistral,1,0,5,0,0.0%,no,none
+FQ00026,Should I Invest in XEQT Permanently?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00028,What is the impact of family and friends on a retail investor in Canada?,mistral,1,0,5,0,0.0%,no,none
+FQ00028,What is the impact of family and friends on a retail investor in Canada?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00030,How to reduce risk in a pension?,mistral,1,0,5,0,0.0%,no,none
+FQ00030,How to reduce risk in a pension?,llama3.1,1,0,5,0,0.0%,no,none
+FQ00032,Is it true that BMO now offers commission-free trading for several Exchange-Traded Funds (ETFs)?.,mistral,1,0,5,0,0.0%,no,none
+FQ00032,Is it true that BMO now offers commission-free trading for several Exchange-Traded Funds (ETFs)?.,llama3.1,1,0,1,0,0.0%,no,none
+FQ00034,"Which is the best additional ETF to gain more technology exposure, given that XEQT is currently held?",mistral,1,0,1,0,0.0%,no,none
+FQ00034,"Which is the best additional ETF to gain more technology exposure, given that XEQT is currently held?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00035,What is the impact of regularly reviewing account statements on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00035,What is the impact of regularly reviewing account statements on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00036,"What is the percentage of Canadians retiring with an annual income less than $15,000 and those retiring with $60,000 or more, and are these figures accurate? If not, what are the actual percentages and does this include me (the respondent) in the 51% group?",mistral,1,0,0,1,0.0%,uncertain,none
+FQ00036,"What is the percentage of Canadians retiring with an annual income less than $15,000 and those retiring with $60,000 or more, and are these figures accurate? If not, what are the actual percentages and does this include me (the respondent) in the 51% group?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00039,"Should I sell my $30,000 Pokemon collection to max out my TFSA (Tax-Free Savings Account) and FHSA (First Home Savings Account)?",mistral,1,0,1,0,0.0%,no,none
+FQ00039,"Should I sell my $30,000 Pokemon collection to max out my TFSA (Tax-Free Savings Account) and FHSA (First Home Savings Account)?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00040,What was the return percentage and the total net asset value of CPP Investments for the third quarter?,mistral,1,0,1,0,0.0%,no,none
+FQ00040,What was the return percentage and the total net asset value of CPP Investments for the third quarter?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00041,What key factors should be considered about Individual Pension Plans (IPPs) prior to investment?,mistral,1,0,1,0,0.0%,no,none
+FQ00041,What key factors should be considered about Individual Pension Plans (IPPs) prior to investment?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00044,Is there any obligation for a Canadian estate to pay to an IRA (Individual Retirement Account) following the death of a Canadian individual who held US stocks in their portfolio?,mistral,1,0,1,0,0.0%,no,none
+FQ00044,Is there any obligation for a Canadian estate to pay to an IRA (Individual Retirement Account) following the death of a Canadian individual who held US stocks in their portfolio?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00045,Are there Environmentally Conscious Exchange-Traded Funds (ETFs) available in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00045,Are there Environmentally Conscious Exchange-Traded Funds (ETFs) available in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00046,What is important to know about out-of-country travel medical insurance prior to making an investment?,mistral,1,0,1,0,0.0%,no,none
+FQ00046,What is important to know about out-of-country travel medical insurance prior to making an investment?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00048,Should travel expenses be made using Amex Cobalt or Wealthsimple Visa Card?,mistral,1,0,1,0,0.0%,no,none
+FQ00048,Should travel expenses be made using Amex Cobalt or Wealthsimple Visa Card?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00049,What impact does a market bubble have on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00049,What impact does a market bubble have on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00050,What is the impact of growth investment strategies on retail investors?,mistral,1,0,1,0,0.0%,no,none
+FQ00050,What is the impact of growth investment strategies on retail investors?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00051,"At what age should an individual aged 35, who has invested 100% of their Tax-Free Savings Account (TFSA) in XEQT, consider reducing their risk tolerance and starting to move towards bonds?",mistral,1,0,1,0,0.0%,no,none
+FQ00051,"At what age should an individual aged 35, who has invested 100% of their Tax-Free Savings Account (TFSA) in XEQT, consider reducing their risk tolerance and starting to move towards bonds?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00052,Does RBC have high fees for self-directed investing?,mistral,1,0,1,0,0.0%,no,none
+FQ00052,Does RBC have high fees for self-directed investing?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00053,What are the key differences between Active and Passive investment strategies before making an investment decision in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00053,What are the key differences between Active and Passive investment strategies before making an investment decision in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00055,How does loss aversion impact a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00055,How does loss aversion impact a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00056,Millionaire homeowners struggling in retirement due to insufficient savings despite substantial home equity,mistral,1,0,1,0,0.0%,no,none
+FQ00056,Millionaire homeowners struggling in retirement due to insufficient savings despite substantial home equity,llama3.1,1,0,1,0,0.0%,no,none
+FQ00058,What is the impact of budgeting during retirement on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00058,What is the impact of budgeting during retirement on a retail investor?,llama3.1,1,0,0,1,0.0%,uncertain,none
+FQ00059,Comparison between VFV and QQC from iShares versus VEQT from Vanguard in terms of return,mistral,1,0,1,0,0.0%,no,none
+FQ00059,Comparison between VFV and QQC from iShares versus VEQT from Vanguard in terms of return,llama3.1,1,1,0,0,100.0%,yes,fabricated_facts
+FQ00060,Is it advisable to take out a mortgage when Tax-Free Savings Account (TFSA) and Registered Retirement Savings Plan (RRSP) are already maxed out?,mistral,1,0,1,0,0.0%,no,none
+FQ00060,Is it advisable to take out a mortgage when Tax-Free Savings Account (TFSA) and Registered Retirement Savings Plan (RRSP) are already maxed out?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00061,"Comparing XEQT, VEQT, and QQQ: Which has a better return on investment?",mistral,1,0,1,0,0.0%,no,none
+FQ00061,"Comparing XEQT, VEQT, and QQQ: Which has a better return on investment?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00063,"Is the S&P 500 a suitable investment option for an individual averse to high risk, given that they have additional funds?",mistral,1,0,1,0,0.0%,no,none
+FQ00063,"Is the S&P 500 a suitable investment option for an individual averse to high risk, given that they have additional funds?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00064,Is there a Smart or Recency Bias when investing in VEQT and VFV?,mistral,1,0,1,0,0.0%,no,none
+FQ00064,Is there a Smart or Recency Bias when investing in VEQT and VFV?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00065,What are the three essential responsibilities to consider before making an investment?,mistral,1,0,1,0,0.0%,no,none
+FQ00065,What are the three essential responsibilities to consider before making an investment?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00066,What essential information should be considered before investing in Guaranteed Investment Certificates (GICs) in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00066,What essential information should be considered before investing in Guaranteed Investment Certificates (GICs) in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00067,"What are the influences of trading apps on investment behavior, specifically nudges prior to investing?",mistral,1,0,0,1,0.0%,uncertain,none
+FQ00067,"What are the influences of trading apps on investment behavior, specifically nudges prior to investing?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00068,Does the VFV dividend match the S&P 500 dividend?,mistral,1,0,1,0,0.0%,no,none
+FQ00068,Does the VFV dividend match the S&P 500 dividend?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00070,How do behavioral biases impact a retail investor during market bubbles?,mistral,1,0,1,0,0.0%,no,none
+FQ00070,How do behavioral biases impact a retail investor during market bubbles?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00071,Is the official Tax-Free Savings Account (TFSA) contribution room for the year 2024 $7000?,mistral,1,0,1,0,0.0%,no,none
+FQ00071,Is the official Tax-Free Savings Account (TFSA) contribution room for the year 2024 $7000?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00074,"Is there a debate on high-interest ETFs among Bay Street participants, which have gained popularity among retail investors, leading to a federal review?",mistral,1,0,1,0,0.0%,no,none
+FQ00074,"Is there a debate on high-interest ETFs among Bay Street participants, which have gained popularity among retail investors, leading to a federal review?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00075,"Does home insurance have an impact on the financial investments of a retail investor, and if so, how and why?",mistral,1,0,1,0,0.0%,no,none
+FQ00075,"Does home insurance have an impact on the financial investments of a retail investor, and if so, how and why?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00076,How does the power of attorney impact a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00076,How does the power of attorney impact a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00078,Recommendations for pairing investments with the ETF VFV (iShares S&P/TSX 60 Index)?,mistral,1,0,1,0,0.0%,no,none
+FQ00078,Recommendations for pairing investments with the ETF VFV (iShares S&P/TSX 60 Index)?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00082,How does 'Gaming the System' influence a Retail Investor in Online Trading?,mistral,1,0,1,0,0.0%,no,none
+FQ00082,How does 'Gaming the System' influence a Retail Investor in Online Trading?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00083,What is the impact of the 'Take the Love and Money Quiz' on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00083,What is the impact of the 'Take the Love and Money Quiz' on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00086,What is a cost-effective and low/no-risk method for converting USD to CAD?,mistral,1,0,1,0,0.0%,no,none
+FQ00086,What is a cost-effective and low/no-risk method for converting USD to CAD?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00087,Does the cash flow of small businesses impact the investments of retail investors?,mistral,1,0,1,0,0.0%,no,none
+FQ00087,Does the cash flow of small businesses impact the investments of retail investors?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00088,Does Wealthsimple offer a wider bid-ask spread for VEQT compared to XEQT?,mistral,1,0,1,0,0.0%,no,none
+FQ00088,Does Wealthsimple offer a wider bid-ask spread for VEQT compared to XEQT?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00090,Is there any advantage to contributing to an RRSP if one expects to be in a high tax bracket upon retirement?,mistral,1,0,1,0,0.0%,no,none
+FQ00090,Is there any advantage to contributing to an RRSP if one expects to be in a high tax bracket upon retirement?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00091,What is the impact on a retail investor when closing a bank account?,mistral,1,0,1,0,0.0%,no,none
+FQ00091,What is the impact on a retail investor when closing a bank account?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00092,Is it advisable to purchase the ETF 'VFV' within a Registered Retirement Savings Plan (RRSP) account?,mistral,1,0,1,0,0.0%,no,none
+FQ00092,Is it advisable to purchase the ETF 'VFV' within a Registered Retirement Savings Plan (RRSP) account?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00093,Is Wealthsimple's Chequing Account used as a credit card?,mistral,1,0,1,0,0.0%,no,none
+FQ00093,Is Wealthsimple's Chequing Account used as a credit card?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00095,What impact does 'Take the Stress Out of Budgeting' have on a Retail Investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00095,What impact does 'Take the Stress Out of Budgeting' have on a Retail Investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00097,What is the impact of checking account operations on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00097,What is the impact of checking account operations on a retail investor?,llama3.1,1,0,0,1,0.0%,uncertain,none
+FQ00098,Does the CRA (Canada Revenue Agency) My Account provide 2025 FHSA (First Home Savings Account) participation room statements?,mistral,1,0,1,0,0.0%,no,none
+FQ00098,Does the CRA (Canada Revenue Agency) My Account provide 2025 FHSA (First Home Savings Account) participation room statements?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00102,Comparison between Wealthsimple and Major Canadian Banks for Investment Services,mistral,1,0,1,0,0.0%,no,none
+FQ00102,Comparison between Wealthsimple and Major Canadian Banks for Investment Services,llama3.1,1,0,1,0,0.0%,no,none
+FQ00103,Is there a specific question related to foreign stock investments on a Canadian tax return?,mistral,1,0,1,0,0.0%,no,none
+FQ00103,Is there a specific question related to foreign stock investments on a Canadian tax return?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00105,Can stocks be sold before the end of a year to qualify for tax-free capital gains in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00105,Can stocks be sold before the end of a year to qualify for tax-free capital gains in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00106,"Is holding multiple ETFs such as VDY, VFV, and XEQT excessively diversified for personal finance and investing?",mistral,1,0,1,0,0.0%,no,none
+FQ00106,"Is holding multiple ETFs such as VDY, VFV, and XEQT excessively diversified for personal finance and investing?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00107,What is the impact of an executor on a retail investor's portfolio?,mistral,1,0,1,0,0.0%,no,none
+FQ00107,What is the impact of an executor on a retail investor's portfolio?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00110,What is the impact of long-term care planning on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00110,What is the impact of long-term care planning on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00113,The individual is about to inherit a significant amount of money.,mistral,1,0,1,0,0.0%,no,none
+FQ00113,The individual is about to inherit a significant amount of money.,llama3.1,1,0,1,0,0.0%,no,none
+FQ00114,Is Wealthsimple Tax considered good for personal tax filing?,mistral,1,0,1,0,0.0%,no,none
+FQ00114,Is Wealthsimple Tax considered good for personal tax filing?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00115,Is it possible to verify if a financial advisor is properly registered in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00115,Is it possible to verify if a financial advisor is properly registered in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00116,What is the impact of self-management on a retail investor's financial performance?,mistral,1,0,1,0,0.0%,no,none
+FQ00116,What is the impact of self-management on a retail investor's financial performance?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00117,What is the impact of checking one's knowledge about cryptocurrency on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00117,What is the impact of checking one's knowledge about cryptocurrency on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00119,What is the impact of preparing for financial emergencies on a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00119,What is the impact of preparing for financial emergencies on a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00120,"What is the best low-risk investment option for a Canadian resident to put $17,000 into for one year?",mistral,1,0,1,0,0.0%,no,none
+FQ00120,"What is the best low-risk investment option for a Canadian resident to put $17,000 into for one year?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00122,What risks should I consider before investing in actively managed ETFs?,mistral,1,0,1,0,0.0%,no,none
+FQ00122,What risks should I consider before investing in actively managed ETFs?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00125,"What is the optimal frequency for buying stocks when automating contributions to TD Direct Investing XEQT in a TFSA account, given a trading fee of approximately $10 per transaction?",mistral,1,0,1,0,0.0%,no,none
+FQ00125,"What is the optimal frequency for buying stocks when automating contributions to TD Direct Investing XEQT in a TFSA account, given a trading fee of approximately $10 per transaction?",llama3.1,1,0,0,1,0.0%,uncertain,none
+FQ00126,Is it more common than previously thought for Canadians to retire with little savings?,mistral,1,0,1,0,0.0%,no,none
+FQ00126,Is it more common than previously thought for Canadians to retire with little savings?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00127,What is the role and importance of a Trusted Contact Person for a retail investor in Canada?,mistral,1,0,1,0,0.0%,no,none
+FQ00127,What is the role and importance of a Trusted Contact Person for a retail investor in Canada?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00129,"What is the financial impact on retirement savings (RRSP) for an individual with a salary jump from $80,000 to $200,000, no existing RRSP funds, and $42,000 in student debt?",mistral,1,0,1,0,0.0%,no,none
+FQ00129,"What is the financial impact on retirement savings (RRSP) for an individual with a salary jump from $80,000 to $200,000, no existing RRSP funds, and $42,000 in student debt?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00131,Should a Federal Home Savings Account (FHSA) be used for stock investments?,mistral,1,0,1,0,0.0%,no,none
+FQ00131,Should a Federal Home Savings Account (FHSA) be used for stock investments?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00132,"Is purchasing a condo currently considered a poor investment, as suggested by the article?",mistral,1,0,1,0,0.0%,no,none
+FQ00132,"Is purchasing a condo currently considered a poor investment, as suggested by the article?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00135,"How relevant is a 20% Global ETF and 80% Bond portfolio today, in terms of personal finance and investing?",mistral,1,0,1,0,0.0%,no,none
+FQ00135,"How relevant is a 20% Global ETF and 80% Bond portfolio today, in terms of personal finance and investing?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00139,How does understanding cryptocurrency trading platforms impact a retail investor?,mistral,1,0,1,0,0.0%,no,none
+FQ00139,How does understanding cryptocurrency trading platforms impact a retail investor?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00141,"At age 18, should one choose a Federal Home Savings Account (FHSA) over a Tax-Free Savings Account (TFSA)?",mistral,1,0,1,0,0.0%,no,none
+FQ00141,"At age 18, should one choose a Federal Home Savings Account (FHSA) over a Tax-Free Savings Account (TFSA)?",llama3.1,1,0,1,0,0.0%,no,none
+FQ00142,What are the costs associated with LSIFs (Liquefied Natural Gas Infrastructure Funds) that an investor should consider before investing?,mistral,1,0,1,0,0.0%,no,none
+FQ00142,What are the costs associated with LSIFs (Liquefied Natural Gas Infrastructure Funds) that an investor should consider before investing?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00144,What key points should investors consider regarding the DSC ban prior to investment?,mistral,1,0,1,0,0.0%,no,none
+FQ00144,What key points should investors consider regarding the DSC ban prior to investment?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00147,Should I switch from a sector fund to XEQT (iShares Core S&P Total U.S. Stock Market ETF) or North American Value Fund?,mistral,1,0,1,0,0.0%,no,none
+FQ00147,Should I switch from a sector fund to XEQT (iShares Core S&P Total U.S. Stock Market ETF) or North American Value Fund?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00148,What are the thoughts on a high-risk investment strategy for a $700k inheritance managed by an individual with a high risk tolerance (aged 27)?,mistral,1,0,1,0,0.0%,no,none
+FQ00148,What are the thoughts on a high-risk investment strategy for a $700k inheritance managed by an individual with a high risk tolerance (aged 27)?,llama3.1,1,0,1,0,0.0%,no,none
+FQ00149,Which specific stocks should I consider investing in? Could you explain the process for determining which stocks to buy? My current knowledge is limited to investments such as XEQT and XGRO.,mistral,1,0,1,0,0.0%,no,none
+FQ00149,Which specific stocks should I consider investing in? Could you explain the process for determining which stocks to buy? My current knowledge is limited to investments such as XEQT and XGRO.,llama3.1,1,0,1,0,0.0%,no,none
+FQ00150,Should a parent choose between purchasing life insurance or contributing to a Tax-Free Savings Account (TFSA) for their child?,mistral,1,0,1,0,0.0%,no,none
+FQ00150,Should a parent choose between purchasing life insurance or contributing to a Tax-Free Savings Account (TFSA) for their child?,llama3.1,1,0,1,0,0.0%,no,none
