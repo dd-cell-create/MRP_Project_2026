@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+gt_checkpoint.csv
+checkpoint_v2.csv
+criteria_checkpoint.csv
+ground_truth.csv
+final_output.csv
+master_clean_questions.csv
+.DS_Store
